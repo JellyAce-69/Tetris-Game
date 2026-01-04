@@ -53,7 +53,7 @@ This project was created to:
 ## 👨‍💻 Author
 
 **Sean (Ace)**
-Aspiring Computer Scientist | Software Engineer | Gamer 🎮
+Aspiring Computer Scientist | Software Engineer | Writer | Gamer 🎮
 
 
 
